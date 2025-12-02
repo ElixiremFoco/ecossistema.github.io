@@ -1,0 +1,19 @@
+logo: /images/logo.png
+title: Ecossitema Elixir
+description: Alguns atores do Ecossitema de Elixir
+url: https://elixiremfoco.com/ecossitema
+plugins: 
+  - jekyll-seo-tag
+
+
+defaults:
+
+scope:
+path: ""
+values:
+image:
+path: /images/logo_site.png
+width: 1200
+height: 630
+alt: Elixir em Foco (Logo)
+
