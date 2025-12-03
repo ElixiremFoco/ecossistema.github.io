@@ -1,7 +1,6 @@
 ---
 layout: home
 title: Ecossistema de Elixir
-subtitle: Alguns dos atores do ecossitema de software de Elixir
 ---
 
 # Ecossistema de Apoio ao Desenvolvedor em Elixir
