@@ -35,7 +35,7 @@ Este conteúdo deve ser entendido como um **recorte** do ecossistema, sujeito a 
 
 _Última atualização: 03/12/2025_.
 
-## **Elixir Forum**
+[## **Elixir Forum**](https://elixirforum.com/)
 
 O Elixir Forum é um dos senão o maior ponto de encontro da comunidade global da linguagem Elixir. Funciona como um espaço de discussão técnica, suporte entre desenvolvedores, divulgação de projetos, tutoriais e debates sobre práticas de desenvolvimento. É amplamente reconhecido como um dos pilares da comunidade, por sua organização e participação ativa de membros experientes.
 
