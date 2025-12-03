@@ -73,16 +73,16 @@ Apresenta trilhas avançadas, talks técnicas e workshops dedicados à aprendiza
 O Brasil possui uma comunidade ativa e engajada em Elixir, com eventos anuais que fortalecem a troca de conhecimento no país.
 
 [Elixir Brasil 2018](https://pt-br.eventials.com/locaweb/events/elixir-brasil/)
+
 Primeira edição da conferência nacional, com palestras presenciais e participação de membros influentes da comunidade brasileira. Participação do José Valim.
 
 [Elixir Brasil 2019](https://2019.elixirbrasil.com/)
 
 Segunda edição da conferência nacional. Destaque para a palestra “A Comunidade de Elixir: uma caracterização preliminar”, apresentada pelo host do podcast Elixir em Foco Prof. Dr. Adolfo Neto
 
-[Elixir Brasil 2020](https://2020.elixirbrasil.com/pt/)
-[Elixir Brasil 2021](https://2021.elixirbrasil.com/pt/)
-Ambas as edições foram totalmente online, realizada durante a pandemia. Contou com grande alcance devido ao formato virtual.
+[Elixir Brasil 2020](https://2020.elixirbrasil.com/pt/) e [Elixir Brasil 2021](https://2021.elixirbrasil.com/pt/)
 
+Ambas as edições foram totalmente online, realizada durante a pandemia. Contou com grande alcance devido ao formato virtual.
 Palestras disponíveis no [YouTube: @ElixirBrasil](https://www.youtube.com/@ElixirBrasil)
 
 [Elixir Fortaleza 2023](https://2023.elixir.fortal.br/)
