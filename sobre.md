@@ -4,11 +4,7 @@ title: Sobre o projeto
 permalink: /sobre/
 ---
 
-# Sobre este projeto
-
-Este site faz parte de um esforço de documentação e divulgação do **ecossistema de apoio ao desenvolvedor na linguagem Elixir**, inspirado e derivado de um Trabalho de Conclusão de Curso (TCC).
-
-O estudo original analisa apenas um **subconjunto** dos atores do ecossistema, e este site segue a mesma linha: organizar e tornar visível esse recorte, sem a pretensão de definir de forma definitiva quais são os atores “centrais” ou “mais importantes”.
+Este site faz parte de um esforço de documentação e divulgação do **ecossistema de software da linguagem Elixir**, derivado de um Trabalho de Conclusão de Curso (TCC). O estudo original analisa apenas um **subconjunto** dos atores do ecossistema, representados neste site.
 
 ## Escopo atual
 
@@ -17,17 +13,16 @@ Atualmente, o foco está em:
 - Comunidades e fóruns de discussão;
 - Eventos e conferências relacionados a Elixir;
 - Repositórios e projetos abertos que apoiam o uso da linguagem;
-- Iniciativas em mídias digitais (como *Elixir em Foco*).
 
 ## Possíveis extensões futuras
 
 Trabalhos futuros — e evoluções deste site — podem incluir:
 
-- Análise de **redes sociais** (por exemplo, X/Twitter, LinkedIn, grupos em Facebook);
+- Análise de **redes sociais** (por exemplo, X/Twitter, LinkedIn);
 - Mapeamento de **canais no YouTube** dedicados a Elixir e BEAM;
 - Catalogação de **podcasts** focados em Elixir, Erlang e desenvolvimento funcional.
 
-Esses atores não foram explorados em profundidade no estudo original, mas são fundamentais para compreender o ecossistema contemporâneo de Elixir.
+Esses atores não foram explorados no estudo original, mas têm forte influência no ecossistema de Elixir.
 
 ## Aviso sobre atualização
 
