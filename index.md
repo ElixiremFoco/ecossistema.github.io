@@ -41,6 +41,7 @@ O [Hex.pm](https://hex.pm/) é o gerenciador oficial de pacotes da linguagem Eli
 O HexDocs reúne documentação automática dos pacotes publicados no Hex.pm, além da documentação oficial das versões do Elixir, Mix, ExUnit e outras bibliotecas do core.
 
 Algumas documentações mais utilizadas:
+
 [HexDocs](https://hexdocs.pm/elixir/introduction.html)
 
 [Mix](https://hexdocs.pm/mix/1.19.2/Mix.html)
