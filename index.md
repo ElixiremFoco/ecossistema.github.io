@@ -47,13 +47,6 @@ Algumas documentações mais utilizadas:
 
 [ExUnit](https://hexdocs.pm/ex_unit/1.19.2/ExUnit.html)
 
-_Última atualização: 03/12/2025_.
-
-
-
-
-
-
 
 ## **Conferências de Elixir e Erlang**
 
@@ -103,3 +96,5 @@ edições de Curitiba foram organizadas pelo Prof. Dr. Adolfo Neto.
 [CodeBEAM Brasil](https://www.codebeambr.com/)
 
 Com edições em 2020, 2021 e 2022 desempenharam um papel relevante na disseminação de conhecimentos sobre Elixir e Erlang no país. Palestras do Prof. Dr. Adolfo Neto nas edições de 2021 e 2022. 
+
+_Última atualização: 03/12/2025_.
