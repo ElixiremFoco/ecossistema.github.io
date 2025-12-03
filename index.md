@@ -20,9 +20,9 @@ O GitHub é o local onde está hospedado o código-fonte oficial da linguagem El
 
 [Repositório Base](https://github.com/elixir-lang)
 
-[Elixir (código-fonte da linguagem)](https://github.com/elixir-lang/elixir)
+[Elixir](https://github.com/elixir-lang/elixir) - Código-fonte da linguagem
 
-[Documentação oficial da linguagem](https://elixir-lang.org) - Inclui guias completos, introdução à linguagem, documentação das bibliotecas padrão e informações sobre lançamentos.
+[Documentação da linguagem](https://elixir-lang.org) - Inclui guias completos, introdução à linguagem, documentação das bibliotecas padrão e informações sobre lançamentos.
 
 ## **Repositórios de Pacotes no Hex.pm**
 
