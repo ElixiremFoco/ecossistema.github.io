@@ -1,8 +1,8 @@
 ---
 layout: home
+title: Ecossistema de Software de Elixir
 ---
-  
-## **Ecossistema de Software de Elixir**
+
 Este site apresenta um panorama do ecossistema de software da linguagem **Elixir**, com foco em como diferentes atores, comunidades, fóruns, eventos, repositórios e outras plataformas contribuem para aprendizagem, colaboração e evolução da linguagem.
 
 O objetivo é formular um material de apoio para estudantes, pesquisadores e desenvolvedores. Facilitando o acesso a alguns dos atores do ecossistema de Elixir.
@@ -11,7 +11,7 @@ O objetivo é formular um material de apoio para estudantes, pesquisadores e des
 
 ## **Elixir Forum**
 
-O [Elixir Forum](https://elixirforum.com/) é um dos senão o maior ponto de encontro da comunidade global da linguagem Elixir. Funciona como um espaço de discussão técnica, suporte entre desenvolvedores, divulgação de projetos, tutoriais e debates sobre práticas de desenvolvimento. É amplamente reconhecido como um dos pilares da comunidade, por sua organização e participação ativa de membros experientes.
+O [Elixir Forum](https://elixirforum.com/) é um dos, senão o maior, ponto de encontro da comunidade global da linguagem Elixir. Funciona como um espaço de discussão técnica, suporte entre desenvolvedores, divulgação de projetos, tutoriais e debates sobre práticas de desenvolvimento. É amplamente reconhecido como um dos pilares da comunidade, por sua organização e participação ativa de membros experientes.
 
 
 ## **Repositórios Oficiais do Elixir no GitHub**
