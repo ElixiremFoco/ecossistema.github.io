@@ -40,30 +40,26 @@ O Hex.pm é o gerenciador oficial de pacotes da linguagem Elixir e da plataforma
 
 Principais pacotes:
 
-Phoenix Framework: https://hex.pm/packages/phoenix
+[Phoenix Framework](https://hex.pm/packages/phoenix)
 
-Ecto (banco de dados): https://hex.pm/packages/ecto
+[Ecto](https://hex.pm/packages/ecto) - Banco de dados
 
-Plug (construção de aplicações web): https://hex.pm/packages/plug
+[LiveView](https://hex.pm/packages/phoenix_live_view)
 
-LiveView: https://hex.pm/packages/phoenix_live_view
+[ExUnit](https://hex.pm/packages/ex_unit) - Testes
 
-ExUnit (testes): https://hex.pm/packages/ex_unit
-
-Página geral do Hex.pm:
-🔗 https://hex.pm/
+Página geral do [Hex.pm](https://hex.pm/)
 
 HexDocs – Documentação gerada pelos pacotes
 
 O HexDocs reúne documentação automática dos pacotes publicados no Hex.pm, além da documentação oficial das versões do Elixir, Mix, ExUnit e outras bibliotecas do core.
 Exemplos:
 
-Documentação do Mix: https://hexdocs.pm/mix/1.19.2/Mix.html
+[Documentação do Mix](https://hexdocs.pm/mix/1.19.2/Mix.html)
 
-Documentação do ExUnit: https://hexdocs.pm/ex_unit/1.19.2/ExUnit.html
+[Documentação do ExUnit](https://hexdocs.pm/ex_unit/1.19.2/ExUnit.html)
 
-Página geral do HexDocs:
-🔗 https://hexdocs.pm/
+Página geral do [HexDocs](https://hexdocs.pm/)
 
 
 ## Escopo e limitações
