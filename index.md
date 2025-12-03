@@ -47,11 +47,4 @@ Algumas documentações mais utilizadas:
 
 [ExUnit](https://hexdocs.pm/ex_unit/1.19.2/ExUnit.html)
 
-## **Escopo e limitações**
-
-Os atores apresentados aqui não são os únicos que compõem o ecossistema de Elixir.  
-Novas iniciativas surgem com frequência e algumas podem deixar de existir ou mudar de foco ao longo do tempo.
-
-Este conteúdo deve ser entendido como um **recorte** do ecossistema, sujeito a atualização e expansão futuras.
-
 _Última atualização: 03/12/2025_.
