@@ -26,7 +26,7 @@ O GitHub é o local onde está hospedado o código-fonte oficial da linguagem El
 
 ## **Repositórios de Pacotes no Hex.pm**
 
-O [Hex.pm](https://hex.pm/) é o gerenciador oficial de pacotes da linguagem Elixir e da plataforma BEAM. Ele hospeda bibliotecas, frameworks e ferramentas essenciais para desenvolvimento em Elixir, incluindo o Phoenix, Ecto e dezenas de projetos da comunidade.
+O [Hex.pm](https://hex.pm/) é o gerenciador oficial de pacotes da linguagem Elixir e da plataforma BEAM. Ele hospeda bibliotecas, frameworks e outras ferramentas essenciais para desenvolvimento em Elixir, incluindo o Phoenix, Ecto e dezenas de projetos da comunidade.
 
 [Repositório Hex e HexPM](https://github.com/hexpm)
 
@@ -40,7 +40,7 @@ O [Hex.pm](https://hex.pm/) é o gerenciador oficial de pacotes da linguagem Eli
 
 O HexDocs reúne documentação automática dos pacotes publicados no Hex.pm, além da documentação oficial das versões do Elixir, Mix, ExUnit e outras bibliotecas do core.
 
-[HexDocs](https://hexdocs.pm/elixir/introduction.html)
+[HexDocs](https://hexdocs.pm/elixir/introduction.html) - Introdução
 
 Algumas documentações mais utilizadas:
 
