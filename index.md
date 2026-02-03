@@ -3,7 +3,6 @@ layout: home
 title: Ecossistema de Software de Elixir
 ---
 
-TESTE
 Este site apresenta um panorama do ecossistema de software da linguagem **Elixir**, com foco em como diferentes atores, comunidades, fóruns, eventos, repositórios e outras plataformas contribuem para aprendizagem, colaboração e evolução da linguagem.
 
 O objetivo é formular um material de apoio para estudantes, pesquisadores e desenvolvedores. Facilitando o acesso a alguns dos atores do ecossistema de Elixir.
