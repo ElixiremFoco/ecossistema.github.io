@@ -99,3 +99,5 @@ edições de Curitiba foram organizadas pelo Prof. Dr. Adolfo Neto.
 Com edições em 2020, 2021 e 2022 desempenharam um papel relevante na disseminação de conhecimentos sobre Elixir e Erlang no país. Palestras do Prof. Dr. Adolfo Neto nas edições de 2021 e 2022. 
 
 _Última atualização: {{ site.time | date: "%d/%m/%Y" }}_
+
+Contribua fazendo um _pull request_ em <https://github.com/ElixiremFoco/ecossistema>.
