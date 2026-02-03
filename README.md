@@ -1,1 +1,1 @@
-https://elixiremfoco.com/ecossistema.github.io/
+https://elixiremfoco.com/ecossistema
